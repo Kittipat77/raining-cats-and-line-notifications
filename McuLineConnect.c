@@ -4,11 +4,11 @@
 #include <TridentTD_LineNotify.h>
 
 // WiFi credentials
-const char* ssid = "Mr.Freshh";
-const char* password = "88888888n";
+const char* ssid = "WifiID";
+const char* password = "Wifipass";
 
 // Line Notify token
-const String lineToken = "S9jBh15n4LlaHoQCP5SIXgiN28BGqA8HDqZUxeWHP4T";
+const String lineToken = "S9jBh15n4LlaHoQCP5SIXgiN28BGqA8HDqZUxeWHP4Tz";
 
 // Rain sensor pin
 const int rainSensorPin = D0;
